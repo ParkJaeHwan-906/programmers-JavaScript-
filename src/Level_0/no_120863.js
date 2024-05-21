@@ -1,3 +1,6 @@
+// 프로그래머스 Level 0
+// 다항식 더하기
+// https://school.programmers.co.kr/learn/courses/30/lessons/120863
 function solution(polynomial) {
     let x_num = 0;
     let num = 0;
